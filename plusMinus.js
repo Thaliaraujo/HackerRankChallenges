@@ -15,11 +15,10 @@ function plusMinus(arr) {
             zero += 1;
         };
     };
-
+    
     console.log((positive / arr.length).toFixed(6));
     console.log((negative / arr.length).toFixed(6));
     console.log((zero / arr.length).toFixed(6));
 };
-
 
 plusMinus([-4, 3, -9, 0, 4, 1]);

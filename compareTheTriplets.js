@@ -1,3 +1,5 @@
+//A tarefa é encontrar seus pontos de comparação comparando a[0] com b[0] , a[1] com b[1] e a[2] com b[2].
+
 function compareTriplets(a, b) {
 
    let aliceScore = 0;

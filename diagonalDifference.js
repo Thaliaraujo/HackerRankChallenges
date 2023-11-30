@@ -1,3 +1,6 @@
+//Dada uma matriz quadrada, calcule a diferença absoluta entre as somas de suas diagonais.
+//Retorne a diferença absoluta entre as somas das duas diagonais da matriz como um único número inteiro.
+
 function diagonalDifference(arr) {
    let leftDiagonal = 0; 
    let rightDiagonal = 0;

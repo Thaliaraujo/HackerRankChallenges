@@ -1,4 +1,4 @@
-//Sum long numbers
+//Soma simples de números longos
 
 function aVeryBigSum(ar) {
     let sum = 0;

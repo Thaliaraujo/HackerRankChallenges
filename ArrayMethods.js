@@ -51,6 +51,10 @@ console.log(food.join(" and "));
 food.splice(0, 0, 'Peach');
 food.splice(0, 1);
 
+//sort() ordena os elementos do próprio array e retorna o array. 
+food.sort();
+
+
 console.log(food);
 
 

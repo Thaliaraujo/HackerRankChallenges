@@ -22,7 +22,7 @@ console.log(food.includes('Mel'));
 
 //fill() - preenche os elementos especificados em um array com um determinado valor, modificando o array original.
 //array.fill(value, start, end)
-food.fill(':)', 3,5);
+food.fill('#', 3,5);
 
 // .indexOf( ) - retorna o primeiro índice encontrado de um valor especificado. 
 console.log(food.indexOf('Apple'));
